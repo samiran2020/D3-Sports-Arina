@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/PoppinsBold.ttf",
+      "sha1": "2c68f0fd58a060d9b55ca59ee9fff9b201b19149"
+    },
+    {
+      "path": "assets/fonts/PoppinsLight.ttf",
+      "sha1": "edfee8d6a8457343526af07512815c39875ee63a"
+    },
+    {
+      "path": "assets/fonts/PoppinsMedium.ttf",
+      "sha1": "c61a7d858adf790c4a8414223e413a14a6a77546"
+    },
+    {
+      "path": "assets/fonts/PoppinsRegular.ttf",
+      "sha1": "4330236c6fd7ab1d3f640c9c6991b659ea1ac7cb"
+    },
+    {
+      "path": "assets/fonts/PoppinsSemiBold.ttf",
+      "sha1": "7186e3e974787e4afafab2551a6de838e5b3d05d"
+    }
+  ]
+}
