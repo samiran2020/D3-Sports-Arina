@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
     paddingHorizontal:27,
   },
   heading:{
-    fontSize:35,
+    fontSize:34,
     fontStyle: 'normal',
     lineHeight:40,
     padding:0,
